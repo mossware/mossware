@@ -8,7 +8,7 @@
 
 - I’m currently working on a CubeSat project at an observatory with a polarizing camera, aiming for space.  
 - Built an audio detection system as part of an active defense system against drones.  
-- Always learning, always growing, and always down to figure things out along the way. No rush, no pressure. Just here for the ride.
+- Always learning, always growing, and always down to figure things out along the way.
 
 ---
 
